@@ -2,6 +2,8 @@ ENSTA MI201 2024
 
 # Project Proposal: Adversarial Attacks in Segmentation (Pol Labarbarie, Adrien Chan-Hon-Tong)
 -
+![Goal](Presentation.png)
+
 ## Implementation:
 
 **Input :**
